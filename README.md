@@ -5,7 +5,7 @@ A picture control that displays a picture according to the size of the control, 
 
 
 
-![Sample Image](https://raw.githubusercontent.com/ChrisMaunder/bitmappicture/master/docs/assets/BitmapPicture.gif)
+![Sample Image](https://raw.githubusercontent.com/ChrisMaunder/Auto_size_bitmap_picture/master/docs/assets/bitmappicture.gif)
 
 ## Introduction
 
